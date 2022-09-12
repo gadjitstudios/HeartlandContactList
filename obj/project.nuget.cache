@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNAWCUVrqm/qXhZ3GrTSgeMtO9x8r3V6COXg9Oockv2hTlka/kreWTLiZf8wmev7k0iPIrJ2bC1RFFMeNbZauQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan\\Repos\\Heartland\\HeartlandContactList\\Heartland.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

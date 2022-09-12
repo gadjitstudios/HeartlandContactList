@@ -1,0 +1,16 @@
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Heartland.exe
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Heartland.deps.json
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Heartland.runtimeconfig.json
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Heartland.runtimeconfig.dev.json
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Heartland.dll
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Heartland.pdb
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.csprojAssemblyReference.cache
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.AssemblyInfoInputs.cache
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.AssemblyInfo.cs
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.csproj.CopyComplete
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.dll
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.pdb
+C:\Users\Ryan\Repos\Heartland\HeartlandContactList\obj\Debug\netcoreapp3.1\Heartland.genruntimeconfig.cache
